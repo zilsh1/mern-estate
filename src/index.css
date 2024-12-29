@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* base:-Adds basic, default styles for things like resetting margins and fonts.*/
+/* components:-Includes reusable, pre-made styles for common UI elements like buttons or cards. */
+/* utilities:Adds the small, single-purpose classes (like text-center, bg-blue-500, etc.) that you use to style elements directly in your HTML or JSX.*/
